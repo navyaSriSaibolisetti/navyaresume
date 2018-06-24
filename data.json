@@ -1,0 +1,28 @@
+{
+  "basics":{
+    "name":"navya sri",
+    "email":"navyasrisai19@gmail.com",
+    "mobile":"+91-9988776655"
+
+  },
+  "education":[
+    {
+      "degree":"B.Tech",
+      "Institute":"PSCMR",
+      "data":["2015-19","75%"]
+    },
+
+      {
+        "degree":"Intermediate/Diploma",
+        "Institute":"Sri Chaitanya",
+        "data":["2013-15","90%"]
+      },
+
+        {
+          "degree":"S.S.C",
+          "Institute":"Sri chaitanya",
+          "data":["2012-13","9.2"]
+        }
+
+  ]
+}
