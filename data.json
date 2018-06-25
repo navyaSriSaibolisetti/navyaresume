@@ -1,28 +1,53 @@
 {
   "basics":{
-    "name":"navya sri",
-    "email":"navyasrisai19@gmail.com",
-    "mobile":"+91-9988776655"
-
+  "name":"navya sri",
+  "email":"navyasrisai19@gmail.com",
+  "mobile":"+91-9988776655"
+  },
+  "career":{
+  "info":" To be the part of a reputed organization which provides steady carrer growth along with job satisfaction,challenges and give value contribution in the success of organization."
   },
   "education":[
-    {
-      "degree":"B.Tech",
-      "Institute":"PSCMR",
-      "data":["2015-19","75%"]
-    },
-
-      {
-        "degree":"Intermediate/Diploma",
-        "Institute":"Sri Chaitanya",
-        "data":["2013-15","90%"]
-      },
-
-        {
-          "degree":"S.S.C",
-          "Institute":"Sri chaitanya",
-          "data":["2012-13","9.2"]
-        }
-
-  ]
+  {
+  "degree":"B.Tech",
+  "Institute":"PSCMR",
+  "data":["2015-19","75%"]
+  },
+  {
+  "degree":"Intermediate/Diploma",
+  "Institute":"Sri Chaitanya",
+  "data":["2013-15","90%"]
+  },
+  {
+  "degree":"S.S.C",
+  "Institute":"Sri chaitanya",
+  "data":["2012-13","9.2(G.P.A)"]
+  }
+],
+"achievements":[
+  {
+    "name":"Awarded as <b>2<sup>nd</sup>prize</b> in <q>Throw ball</q>"
+  },
+  {
+    "name":"Awarded as <strong>1<sup>st</sup>prize</strong> in <q>ppt</q>"
+  }
+],
+"skills":[
+  {
+    "name":"programming languages ",
+    "data":["c","java","python","c++"]
+  },
+  {
+    "name":"databases ",
+    "data":["oracle","mysql"]
+  },
+  {
+    "name":"web technologies ",
+    "data":["HTML","CSS","JavaScript"]
+  },
+  {
+    "name":"libraries and frameworks ",
+    "data":["jquery","codeigniter"]
+  }
+]
 }
